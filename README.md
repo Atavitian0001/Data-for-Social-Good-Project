@@ -23,7 +23,5 @@ Model (String) - The type of car.
 Electric Range (int) - The distance the car can travel.
 UML Diagram
 <img width="1013" alt="382548838-0ed18d05-5c2a-4c8d-b426-40631b358531" src="https://github.com/user-attachments/assets/90f62013-5b88-4d60-b0f9-d37ed8a168af">
-
-Screenshot 2024-11-02 at 9 58 01 PM
 Description
 My project analzyes specific data from a dataset to determine which city in the state of Washington is the most enviromentally friendly based on the number of Electric vehicles. I have selected a data set that had a total of 205,000 registered electric cars in the state, but narrowed it down to the first 10,000 in the data set. The first 10,000 results included the location (city), the Model Year of the car, the brand of the car (make), the Model of the car (brand) and the Electric Range it had. We had to sort the data to find car models that were older than 5 years old by using loops. My project achieved its answer to the userStory and was able to do this with multiple 1D arrays, methods and constructors.
